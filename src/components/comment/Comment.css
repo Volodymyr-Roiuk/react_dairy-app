@@ -1,0 +1,21 @@
+.comment__content {
+  display: flex;
+}
+
+.comment__img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.comment__text {
+  color: #898989;
+}
+
+.comment > hr {
+  margin-top: 15px;
+  border-color: #f2f2f2;
+}
+
+

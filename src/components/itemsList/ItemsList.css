@@ -1,0 +1,43 @@
+.itemList__container {
+  width: 30vw;
+  min-height: 500px;
+  height: max-content;
+  box-shadow: 0 0 10px 0 rgba(125,125,125,0.59);
+  margin: 25px;
+  padding: 25px 25px 15px 35px;
+}
+
+.itemList__title {
+  font-family: 'Abel', sans-serif;
+  font-weight: 400;
+  color: #616573;
+  font-size: 42px;
+  margin: 15px 0;
+}
+
+.itemList__actionsContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.itemList__input {
+  width: 65%;
+}
+
+.itemList__container .ui.button {
+  background-color: #27ccc0;
+  color: #fff;
+  width: 30%;
+  height: 38px;
+}
+
+.itemList__container .ui.button:hover {
+  background-color: #21b2a7;
+  color: #fff;
+}
+
+.itemList__container .ui.button:focus {
+  background-color: #21b2a7;
+  color: #fff;
+}

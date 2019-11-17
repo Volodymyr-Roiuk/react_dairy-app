@@ -1,0 +1,24 @@
+.commentsList__container {
+  width: 40vw;
+  box-shadow: 0 0 10px 0 rgba(125,125,125,0.59);
+  margin: 25px 50px 10px;
+  padding: 25px 25px 15px 35px;
+  min-height: 600px;
+  height: max-content;
+}
+
+.commentsList__title {
+  font-family: 'Abel', sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  color: #616573;
+}
+
+.commentsList__addComment {
+  display: flex;
+  margin-top: 35px;
+}
+
+.commentsList__textArea {
+  width: 100%;
+}
