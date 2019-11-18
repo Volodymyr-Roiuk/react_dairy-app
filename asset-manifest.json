@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_dairy-app/static/css/main.a04ebd9a.chunk.css",
-    "main.js": "/react_dairy-app/static/js/main.3b7315ea.chunk.js",
-    "main.js.map": "/react_dairy-app/static/js/main.3b7315ea.chunk.js.map",
+    "main.js": "/react_dairy-app/static/js/main.b20eccbd.chunk.js",
+    "main.js.map": "/react_dairy-app/static/js/main.b20eccbd.chunk.js.map",
     "runtime-main.js": "/react_dairy-app/static/js/runtime-main.49668214.js",
     "runtime-main.js.map": "/react_dairy-app/static/js/runtime-main.49668214.js.map",
     "static/js/2.3b88a3d4.chunk.js": "/react_dairy-app/static/js/2.3b88a3d4.chunk.js",
     "static/js/2.3b88a3d4.chunk.js.map": "/react_dairy-app/static/js/2.3b88a3d4.chunk.js.map",
     "index.html": "/react_dairy-app/index.html",
-    "precache-manifest.c7f933dab5351db83d005bfc93b5f640.js": "/react_dairy-app/precache-manifest.c7f933dab5351db83d005bfc93b5f640.js",
+    "precache-manifest.ba5e4b71472d1b4e71188b9cdd935f73.js": "/react_dairy-app/precache-manifest.ba5e4b71472d1b4e71188b9cdd935f73.js",
     "service-worker.js": "/react_dairy-app/service-worker.js",
     "static/css/main.a04ebd9a.chunk.css.map": "/react_dairy-app/static/css/main.a04ebd9a.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.49668214.js",
     "static/js/2.3b88a3d4.chunk.js",
     "static/css/main.a04ebd9a.chunk.css",
-    "static/js/main.3b7315ea.chunk.js"
+    "static/js/main.b20eccbd.chunk.js"
   ]
 }

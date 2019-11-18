@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f702fc200ec2261a552f69684db10f0",
+    "revision": "754657af31a77f3e749d439adff85329",
     "url": "/react_dairy-app/index.html"
   },
   {
-    "revision": "c2de49d37bef843c7211",
+    "revision": "ba6a4be484b2ebc84349",
     "url": "/react_dairy-app/static/css/main.a04ebd9a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react_dairy-app/static/js/2.3b88a3d4.chunk.js"
   },
   {
-    "revision": "c2de49d37bef843c7211",
-    "url": "/react_dairy-app/static/js/main.3b7315ea.chunk.js"
+    "revision": "ba6a4be484b2ebc84349",
+    "url": "/react_dairy-app/static/js/main.b20eccbd.chunk.js"
   },
   {
     "revision": "ef7397ae771429348f97",
